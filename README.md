@@ -31,3 +31,6 @@ This project involves building a speaker verification system using Siamese netwo
 5. **Test-time Speaker Verification:**
    - Construct similar batches from the test set.
    - Evaluate the verification accuracy of the trained network on the test examples.
+
+## Results
+Validation Accuracy: 70.67
